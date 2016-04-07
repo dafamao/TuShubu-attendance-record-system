@@ -1,0 +1,137 @@
+﻿<Page x:Class="TuShubu_attendance_record_system.Page_blog"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TuShubu_attendance_record_system"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="Page_blog" Loaded="Page_Loaded">
+
+    <Grid Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="1" Grid.Column="1" Background="Transparent">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Rectangle Fill="{StaticResource Static.Background1}" Margin="5"/>
+            <Rectangle Fill="{StaticResource Static.Background1}" Grid.Row="1" Margin="5"/>
+            <Rectangle Fill="{StaticResource Static.Background1}" Grid.Row="2" Margin="5"/>
+            <Rectangle Fill="{StaticResource Static.Background1}" Grid.Row="3" Margin="5"/>
+            <Grid Margin="20" Background="Transparent">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="值班组长：" />
+                    <TextBox Style="{StaticResource BaseTextBoxStyle}" Name="txb_headman"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1" Orientation="Horizontal" Margin="20, 0, 0, 0">
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="值班日期：" />
+                    <TextBox Style="{StaticResource BaseTextBoxStyle}" Name="txb_data"/>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Row="1" Margin="20" Background="Transparent">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="请假人员：" Margin="0,0,0,7" VerticalAlignment="Bottom" />
+                    <TextBox Style="{StaticResource BaseTextBoxStyle}" Name="txb_leave"/>
+                </StackPanel>
+                <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0, 20, 0, 0">
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="迟到人员：" />
+                    <TextBox Style="{StaticResource BaseTextBoxStyle}" Name="txb_late"/>
+                </StackPanel>
+                <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0, 20, 0, 0">
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="替班人员：" />
+                    <TextBox Style="{StaticResource BaseTextBoxStyle}" Name="txb_relay"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1" Orientation="Horizontal" Margin="20, 0, 0, 0">
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="补班人员：" />
+                    <TextBox Style="{StaticResource BaseTextBoxStyle}" Name="txb_cover"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1" Grid.Row="1" Orientation="Horizontal" Margin="20, 20, 0, 0">
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="旷岗人员：" />
+                    <TextBox Style="{StaticResource BaseTextBoxStyle}" Name="txb_absent"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1" Grid.Row="2" Orientation="Horizontal" Margin="20, 20, 0, 0">
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="还班人员：" />
+                    <TextBox Style="{StaticResource BaseTextBoxStyle}" Name="txb_return"/>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Row="2" Margin="20" Background="Transparent">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="表扬人员：" />
+                    <TextBox Style="{StaticResource BaseTextBoxStyle}" Name="txb_praise1"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1" Orientation="Horizontal" Margin="20, 0, 0, 0">
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="表扬人员：" />
+                    <TextBox Style="{StaticResource BaseTextBoxStyle}" Name="txb_praise2"/>
+                </StackPanel>
+                <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0, 20, 0, 0">
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="简述理由：" />
+                    <TextBox Style="{StaticResource BigTextBoxStyle}" Name="txb_reason1" Height="48"/>
+                </StackPanel>
+                <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal" Margin="20, 20, 0, 0">
+                    <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="简述理由：" />
+                    <TextBox Style="{StaticResource BigTextBoxStyle}" Name="txb_reason2" Height="48"/>
+                </StackPanel>
+            </Grid>
+            <StackPanel Margin="20"  Orientation="Horizontal" Grid.Row="3" Background="Transparent">
+                <TextBlock Style="{StaticResource BaseTextBlockStyle}" Text="值班日志：" HorizontalAlignment="Left" Margin="0, 0, 0, 10"/>
+                <TextBox Style="{StaticResource BigTextBoxStyle}" Name="txb_blog" Width="500" Height="180" TextChanged="txb_blog_TextChanged"/>
+                <Button Name="btn_save" Style="{StaticResource NoMouseOverButtonStyle_body}" FontSize="16" Width="36" Height="180" Margin="20, 0, 0, 0" Click="btn_save_Click">
+                    <TextBlock FontSize="14">
+                        <Run Text="保"/>
+                        <LineBreak/>
+                        <Run Text=" "/>
+                        <LineBreak/>
+                        <Run Text="存"/>
+                    </TextBlock>
+                </Button>
+                <Button Name="btn_succeed" Style="{StaticResource NoMouseOverButtonStyle_body}" FontSize="16" Width="36" Height="180" Margin="20, 0, 0, 0" Click="btn_save_Click">
+                    <TextBlock FontSize="14">
+                        <Run Text="保"/>
+                        <LineBreak/>
+                        <Run Text="存"/>
+                        <LineBreak/>
+                        <Run Text="成"/>
+                        <LineBreak/>
+                        <Run Text="功"/>
+                        <LineBreak/>
+                        <Run Text=" !"/>
+                    </TextBlock>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+    
+</Page>
