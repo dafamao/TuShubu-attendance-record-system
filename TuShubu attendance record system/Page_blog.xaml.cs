@@ -58,6 +58,8 @@ namespace TuShubu_attendance_record_system
                         txb_reason2.Text = strArray[11];
                         txb_blog.Text = strArray[12];
                     }
+
+                    str_tempblog.Close();
                 }
                 else
                 {

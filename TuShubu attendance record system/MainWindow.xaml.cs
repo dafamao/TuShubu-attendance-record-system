@@ -138,10 +138,11 @@ namespace TuShubu_attendance_record_system
                 }
                 catch
                 {
-
                 }
-
-                Environment.Exit(0);
+                finally
+                {
+                    Environment.Exit(0);
+                }
             }
         }
 

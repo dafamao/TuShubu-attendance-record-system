@@ -49,6 +49,8 @@ namespace TuShubu_attendance_record_system
                         txb_data.Text = strArray[0];
                         txb_advice.Text = strArray[1];
                     }
+
+                    str_tempadvice.Close();
                 }
                 else
                 {
