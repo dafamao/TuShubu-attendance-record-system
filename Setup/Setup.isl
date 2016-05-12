@@ -344,14 +344,44 @@
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td>{6673CC09-4E43-4A5C-98A9-B4FABC651EA5}</td><td>TUSHUBU_ATTENDANCE_RECORD_SYSTEM</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{1825183C-A47C-4000-91E6-9ECD90A8FA5A}</td><td>BIN</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT2</td><td>{A0F94DAF-356B-40C5-AE53-C3B2C35B7688}</td><td>RELEASE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{A5B50340-5491-4208-B2A0-05D4E8583E9F}</td><td>RESOURCE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{A99F14A4-4C0D-4A12-9266-B2D22CBC2353}</td><td>BIN</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT10</td><td>{7A63403D-C8F8-460F-B58A-C559E472DBE6}</td><td>KO</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT11</td><td>{B9E0CF89-79B4-48C2-BDA3-BA93FCC92DCE}</td><td>RU</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT12</td><td>{B716D16E-7095-430C-8D54-91498BBB8DEE}</td><td>ZH_HANS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT13</td><td>{F17DFADC-4152-46C2-ADB1-42CE15EDBC82}</td><td>ZH_HANT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT14</td><td>{D1E5792B-BBFA-45D0-9439-053C8F5D3F7E}</td><td>RESOURCE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{4ACE3FF9-86FC-4610-8775-B677BD049263}</td><td>RELEASE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{40C356F4-1E8D-49CA-8800-8047438D33D4}</td><td>DE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{614A1BC6-7C03-4524-8577-BE65968A76D1}</td><td>EN</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{61F4B2FC-E107-43E1-8EE7-36A6A6B92980}</td><td>ES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT7</td><td>{333458CD-FFB0-4C0B-8D9E-FC91B0841FB8}</td><td>FR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT8</td><td>{5D33BB75-1C95-4D52-8D3A-65CC40F33A9F}</td><td>IT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT9</td><td>{584F4146-21EC-488B-A97C-2156A425930B}</td><td>JA</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>IS_ININSTALL_SHORTCUT</td><td>{BD3AD10B-7794-477A-82C4-86314308DC9F}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Microsoft.Expression.Interactions.dll</td><td>{4BA4D6E6-4B41-4FC7-9CCB-9C7D8BCD281A}</td><td>RELEASE</td><td>2</td><td/><td>microsoft.expression.interac</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>System.Windows.Interactivity.dll</td><td>{5D24B424-4BAF-446B-A532-B7C410DFD228}</td><td>RELEASE</td><td>2</td><td/><td>system.windows.interactivity</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>TuShubu_attendance_record_system.exe</td><td>{440DA11B-4F9F-4746-A104-4AF522B4B71D}</td><td>RELEASE</td><td>2</td><td/><td>tushubu_attendance_record_sy</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>TuShubu_attendance_record_system.vshost.exe</td><td>{93ACD566-50F2-4C66-8C8D-0B4B5F7A0D48}</td><td>RELEASE</td><td>2</td><td/><td>tushubu_attendance_record_sy3</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.Expression.Interactions.dll</td><td>{45E64384-378A-4C45-B1F9-52D8EAB8B85F}</td><td>RELEASE</td><td>2</td><td/><td>microsoft.expression.interac7</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll</td><td>{4736B8BD-8B0B-48E7-8F69-C78589255A9B}</td><td>DE</td><td>2</td><td/><td>microsoft.expression.interac</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll1</td><td>{B47935A1-5A5D-4ACC-85C3-4A4F93DCFFD0}</td><td>EN</td><td>2</td><td/><td>microsoft.expression.interac1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll2</td><td>{1FDA6E92-308D-4DBC-83A1-D7A55577AB61}</td><td>ES</td><td>2</td><td/><td>microsoft.expression.interac2</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll3</td><td>{8F17C6CA-06CD-4C2B-B49E-F16024D84DE3}</td><td>FR</td><td>2</td><td/><td>microsoft.expression.interac3</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll4</td><td>{8C5E9928-4D24-4677-8E83-63CCFFF1E328}</td><td>IT</td><td>2</td><td/><td>microsoft.expression.interac4</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll5</td><td>{40B90007-1395-4532-B99B-8A6F32B36ECB}</td><td>JA</td><td>2</td><td/><td>microsoft.expression.interac5</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll6</td><td>{E22E6733-533F-4B67-9621-5153AF86A18B}</td><td>KO</td><td>2</td><td/><td>microsoft.expression.interac6</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll7</td><td>{652757C4-775D-4881-99BE-FEA9C90ADACE}</td><td>RU</td><td>2</td><td/><td>microsoft.expression.interac8</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll8</td><td>{6074B93E-E1E2-468A-8F61-9A6EB2A9C55B}</td><td>ZH_HANS</td><td>2</td><td/><td>microsoft.expression.interac9</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll9</td><td>{BD6E664E-C93A-46EB-A885-E28433822885}</td><td>ZH_HANT</td><td>2</td><td/><td>microsoft.expression.interac10</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Windows.Interactivity.dll</td><td>{DDEEAE14-40CB-4D3A-8101-0EECBB266690}</td><td>RELEASE</td><td>2</td><td/><td>system.windows.interactivity8</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Windows.Interactivity.resources.dll</td><td>{855735A7-55B6-43EA-A252-214546C07778}</td><td>DE</td><td>2</td><td/><td>system.windows.interactivity</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Windows.Interactivity.resources.dll1</td><td>{F173B9B9-B3A3-428A-88C0-563CE8BFA614}</td><td>EN</td><td>2</td><td/><td>system.windows.interactivity1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Windows.Interactivity.resources.dll2</td><td>{5D83F159-513D-4075-A106-D633E971EAB6}</td><td>ES</td><td>2</td><td/><td>system.windows.interactivity2</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Windows.Interactivity.resources.dll3</td><td>{47BDA794-E146-4612-862E-0DA60403D93A}</td><td>FR</td><td>2</td><td/><td>system.windows.interactivity3</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Windows.Interactivity.resources.dll4</td><td>{FC0F190D-88D3-4153-A14C-2A65D9220CE4}</td><td>IT</td><td>2</td><td/><td>system.windows.interactivity4</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Windows.Interactivity.resources.dll5</td><td>{FCD097F1-94DB-402D-9012-A18E0856BFD1}</td><td>JA</td><td>2</td><td/><td>system.windows.interactivity5</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Windows.Interactivity.resources.dll6</td><td>{D5CE8D7C-6419-4B0B-B8F1-0F504746C243}</td><td>KO</td><td>2</td><td/><td>system.windows.interactivity6</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Windows.Interactivity.resources.dll7</td><td>{729D5A84-5187-496D-BABD-2602CF957B9A}</td><td>RU</td><td>2</td><td/><td>system.windows.interactivity7</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Windows.Interactivity.resources.dll8</td><td>{C51ED5CB-3536-4211-9488-4CEAEB442D3F}</td><td>ZH_HANS</td><td>2</td><td/><td>system.windows.interactivity9</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>System.Windows.Interactivity.resources.dll9</td><td>{344F7A24-40DB-4DD7-A980-B6E9C38F2EED}</td><td>ZH_HANT</td><td>2</td><td/><td>system.windows.interactivity10</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>TuShubu_attendance_record_system.exe</td><td>{40A6CED9-9A4B-493B-B990-31C2152AAB51}</td><td>RELEASE</td><td>2</td><td/><td>tushubu_attendance_record_sy4</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>TuShubu_attendance_record_system.vshost.exe1</td><td>{84A9EEE6-D7AF-406C-9845-6E4D3846E5F8}</td><td>RELEASE</td><td>2</td><td/><td>tushubu_attendance_record_sy7</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
 	<table name="Condition">
@@ -1062,22 +1092,82 @@
 		<col key="yes" def="s72">Directory_</col>
 		<col key="yes" def="s72">Component_</col>
 		<row><td>BIN</td><td>ISX_DEFAULTCOMPONENT1</td></row>
+		<row><td>DE</td><td>ISX_DEFAULTCOMPONENT4</td></row>
+		<row><td>DE</td><td>Microsoft.Expression.Interactions.resources.dll</td></row>
+		<row><td>DE</td><td>System.Windows.Interactivity.resources.dll</td></row>
+		<row><td>EN</td><td>ISX_DEFAULTCOMPONENT5</td></row>
+		<row><td>EN</td><td>Microsoft.Expression.Interactions.resources.dll1</td></row>
+		<row><td>EN</td><td>System.Windows.Interactivity.resources.dll1</td></row>
+		<row><td>ES</td><td>ISX_DEFAULTCOMPONENT6</td></row>
+		<row><td>ES</td><td>Microsoft.Expression.Interactions.resources.dll2</td></row>
+		<row><td>ES</td><td>System.Windows.Interactivity.resources.dll2</td></row>
+		<row><td>FR</td><td>ISX_DEFAULTCOMPONENT7</td></row>
+		<row><td>FR</td><td>Microsoft.Expression.Interactions.resources.dll3</td></row>
+		<row><td>FR</td><td>System.Windows.Interactivity.resources.dll3</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT1</td></row>
-		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT2</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT10</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT11</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT12</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT13</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT14</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT3</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT4</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT5</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT6</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT7</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT8</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT9</td></row>
 		<row><td>INSTALLDIR</td><td>IS_ININSTALL_SHORTCUT</td></row>
 		<row><td>INSTALLDIR</td><td>Microsoft.Expression.Interactions.dll</td></row>
+		<row><td>INSTALLDIR</td><td>Microsoft.Expression.Interactions.resources.dll</td></row>
+		<row><td>INSTALLDIR</td><td>Microsoft.Expression.Interactions.resources.dll1</td></row>
+		<row><td>INSTALLDIR</td><td>Microsoft.Expression.Interactions.resources.dll2</td></row>
+		<row><td>INSTALLDIR</td><td>Microsoft.Expression.Interactions.resources.dll3</td></row>
+		<row><td>INSTALLDIR</td><td>Microsoft.Expression.Interactions.resources.dll4</td></row>
+		<row><td>INSTALLDIR</td><td>Microsoft.Expression.Interactions.resources.dll5</td></row>
+		<row><td>INSTALLDIR</td><td>Microsoft.Expression.Interactions.resources.dll6</td></row>
+		<row><td>INSTALLDIR</td><td>Microsoft.Expression.Interactions.resources.dll7</td></row>
+		<row><td>INSTALLDIR</td><td>Microsoft.Expression.Interactions.resources.dll8</td></row>
+		<row><td>INSTALLDIR</td><td>Microsoft.Expression.Interactions.resources.dll9</td></row>
 		<row><td>INSTALLDIR</td><td>System.Windows.Interactivity.dll</td></row>
+		<row><td>INSTALLDIR</td><td>System.Windows.Interactivity.resources.dll</td></row>
+		<row><td>INSTALLDIR</td><td>System.Windows.Interactivity.resources.dll1</td></row>
+		<row><td>INSTALLDIR</td><td>System.Windows.Interactivity.resources.dll2</td></row>
+		<row><td>INSTALLDIR</td><td>System.Windows.Interactivity.resources.dll3</td></row>
+		<row><td>INSTALLDIR</td><td>System.Windows.Interactivity.resources.dll4</td></row>
+		<row><td>INSTALLDIR</td><td>System.Windows.Interactivity.resources.dll5</td></row>
+		<row><td>INSTALLDIR</td><td>System.Windows.Interactivity.resources.dll6</td></row>
+		<row><td>INSTALLDIR</td><td>System.Windows.Interactivity.resources.dll7</td></row>
+		<row><td>INSTALLDIR</td><td>System.Windows.Interactivity.resources.dll8</td></row>
+		<row><td>INSTALLDIR</td><td>System.Windows.Interactivity.resources.dll9</td></row>
 		<row><td>INSTALLDIR</td><td>TuShubu_attendance_record_system.exe</td></row>
-		<row><td>INSTALLDIR</td><td>TuShubu_attendance_record_system.vshost.exe</td></row>
-		<row><td>RELEASE</td><td>ISX_DEFAULTCOMPONENT2</td></row>
+		<row><td>INSTALLDIR</td><td>TuShubu_attendance_record_system.vshost.exe1</td></row>
+		<row><td>IT</td><td>ISX_DEFAULTCOMPONENT8</td></row>
+		<row><td>IT</td><td>Microsoft.Expression.Interactions.resources.dll4</td></row>
+		<row><td>IT</td><td>System.Windows.Interactivity.resources.dll4</td></row>
+		<row><td>JA</td><td>ISX_DEFAULTCOMPONENT9</td></row>
+		<row><td>JA</td><td>Microsoft.Expression.Interactions.resources.dll5</td></row>
+		<row><td>JA</td><td>System.Windows.Interactivity.resources.dll5</td></row>
+		<row><td>KO</td><td>ISX_DEFAULTCOMPONENT10</td></row>
+		<row><td>KO</td><td>Microsoft.Expression.Interactions.resources.dll6</td></row>
+		<row><td>KO</td><td>System.Windows.Interactivity.resources.dll6</td></row>
+		<row><td>RELEASE</td><td>ISX_DEFAULTCOMPONENT3</td></row>
 		<row><td>RELEASE</td><td>Microsoft.Expression.Interactions.dll</td></row>
 		<row><td>RELEASE</td><td>System.Windows.Interactivity.dll</td></row>
 		<row><td>RELEASE</td><td>TuShubu_attendance_record_system.exe</td></row>
-		<row><td>RELEASE</td><td>TuShubu_attendance_record_system.vshost.exe</td></row>
-		<row><td>RESOURCE</td><td>ISX_DEFAULTCOMPONENT3</td></row>
+		<row><td>RELEASE</td><td>TuShubu_attendance_record_system.vshost.exe1</td></row>
+		<row><td>RESOURCE</td><td>ISX_DEFAULTCOMPONENT14</td></row>
+		<row><td>RU</td><td>ISX_DEFAULTCOMPONENT11</td></row>
+		<row><td>RU</td><td>Microsoft.Expression.Interactions.resources.dll7</td></row>
+		<row><td>RU</td><td>System.Windows.Interactivity.resources.dll7</td></row>
 		<row><td>TUSHUBU_ATTENDANCE_RECORD_SYSTEM</td><td>ISX_DEFAULTCOMPONENT</td></row>
+		<row><td>ZH_HANS</td><td>ISX_DEFAULTCOMPONENT12</td></row>
+		<row><td>ZH_HANS</td><td>Microsoft.Expression.Interactions.resources.dll8</td></row>
+		<row><td>ZH_HANS</td><td>System.Windows.Interactivity.resources.dll8</td></row>
+		<row><td>ZH_HANT</td><td>ISX_DEFAULTCOMPONENT13</td></row>
+		<row><td>ZH_HANT</td><td>Microsoft.Expression.Interactions.resources.dll9</td></row>
+		<row><td>ZH_HANT</td><td>System.Windows.Interactivity.resources.dll9</td></row>
 	</table>
 
 	<table name="CustomAction">
@@ -1159,12 +1249,16 @@
 		<row><td>ALLUSERSPROFILE</td><td>TARGETDIR</td><td>.:ALLUSE~1|All Users</td><td/><td>0</td><td/></row>
 		<row><td>AdminToolsFolder</td><td>TARGETDIR</td><td>.:Admint~1|AdminTools</td><td/><td>0</td><td/></row>
 		<row><td>AppDataFolder</td><td>TARGETDIR</td><td>.:APPLIC~1|Application Data</td><td/><td>0</td><td/></row>
-		<row><td>BIN</td><td>TUSHUBU_ATTENDANCE_RECORD_SYSTEM</td><td>bin</td><td/><td>0</td><td/></row>
+		<row><td>BIN</td><td>INSTALLDIR</td><td>bin</td><td/><td>0</td><td/></row>
 		<row><td>CommonAppDataFolder</td><td>TARGETDIR</td><td>.:Common~1|CommonAppData</td><td/><td>0</td><td/></row>
 		<row><td>CommonFiles64Folder</td><td>TARGETDIR</td><td>.:Common64</td><td/><td>0</td><td/></row>
 		<row><td>CommonFilesFolder</td><td>TARGETDIR</td><td>.:Common</td><td/><td>0</td><td/></row>
 		<row><td>DATABASEDIR</td><td>ISYourDataBaseDir</td><td>.</td><td/><td>0</td><td/></row>
+		<row><td>DE</td><td>RELEASE</td><td>de</td><td/><td>0</td><td/></row>
 		<row><td>DesktopFolder</td><td>TARGETDIR</td><td>.:Desktop</td><td/><td>3</td><td/></row>
+		<row><td>EN</td><td>RELEASE</td><td>en</td><td/><td>0</td><td/></row>
+		<row><td>ES</td><td>RELEASE</td><td>es</td><td/><td>0</td><td/></row>
+		<row><td>FR</td><td>RELEASE</td><td>fr</td><td/><td>0</td><td/></row>
 		<row><td>FavoritesFolder</td><td>TARGETDIR</td><td>.:FAVORI~1|Favorites</td><td/><td>0</td><td/></row>
 		<row><td>FontsFolder</td><td>TARGETDIR</td><td>.:Fonts</td><td/><td>0</td><td/></row>
 		<row><td>GlobalAssemblyCache</td><td>TARGETDIR</td><td>.:Global~1|GlobalAssemblyCache</td><td/><td>0</td><td/></row>
@@ -1174,6 +1268,9 @@
 		<row><td>ISMyCompanyDir</td><td>ProgramFilesFolder</td><td>MYCOMP~1|My Company Name</td><td/><td>0</td><td/></row>
 		<row><td>ISMyProductDir</td><td>ISMyCompanyDir</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
 		<row><td>ISYourDataBaseDir</td><td>INSTALLDIR</td><td>Database</td><td/><td>0</td><td/></row>
+		<row><td>IT</td><td>RELEASE</td><td>it</td><td/><td>0</td><td/></row>
+		<row><td>JA</td><td>RELEASE</td><td>ja</td><td/><td>0</td><td/></row>
+		<row><td>KO</td><td>RELEASE</td><td>ko</td><td/><td>0</td><td/></row>
 		<row><td>LocalAppDataFolder</td><td>TARGETDIR</td><td>.:LocalA~1|LocalAppData</td><td/><td>0</td><td/></row>
 		<row><td>MY_PRODUCT_NAME</td><td>INTMINOR</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
 		<row><td>MyPicturesFolder</td><td>TARGETDIR</td><td>.:MyPict~1|MyPictures</td><td/><td>0</td><td/></row>
@@ -1185,7 +1282,8 @@
 		<row><td>ProgramFilesFolder</td><td>TARGETDIR</td><td>.:PROGRA~1|program files</td><td/><td>0</td><td/></row>
 		<row><td>ProgramMenuFolder</td><td>TARGETDIR</td><td>.:Programs</td><td/><td>3</td><td/></row>
 		<row><td>RELEASE</td><td>BIN</td><td>Release</td><td/><td>0</td><td/></row>
-		<row><td>RESOURCE</td><td>TUSHUBU_ATTENDANCE_RECORD_SYSTEM</td><td>Resource</td><td/><td>0</td><td/></row>
+		<row><td>RESOURCE</td><td>INSTALLDIR</td><td>Resource</td><td/><td>0</td><td/></row>
+		<row><td>RU</td><td>RELEASE</td><td>ru</td><td/><td>0</td><td/></row>
 		<row><td>RecentFolder</td><td>TARGETDIR</td><td>.:Recent</td><td/><td>0</td><td/></row>
 		<row><td>SendToFolder</td><td>TARGETDIR</td><td>.:SendTo</td><td/><td>3</td><td/></row>
 		<row><td>StartMenuFolder</td><td>TARGETDIR</td><td>.:STARTM~1|Start Menu</td><td/><td>3</td><td/></row>
@@ -1200,6 +1298,8 @@
 		<row><td>USERPROFILE</td><td>TARGETDIR</td><td>.:USERPR~1|UserProfile</td><td/><td>0</td><td/></row>
 		<row><td>WindowsFolder</td><td>TARGETDIR</td><td>.:Windows</td><td/><td>0</td><td/></row>
 		<row><td>WindowsVolume</td><td>TARGETDIR</td><td>.:WinRoot</td><td/><td>0</td><td/></row>
+		<row><td>ZH_HANS</td><td>RELEASE</td><td>zh-Hans</td><td/><td>0</td><td/></row>
+		<row><td>ZH_HANT</td><td>RELEASE</td><td>zh-Hant</td><td/><td>0</td><td/></row>
 		<row><td>intminor</td><td>ProgramMenuFolder</td><td>intminor</td><td/><td>1</td><td/></row>
 		<row><td>tushubu_attendance_record_system</td><td>intminor</td><td>TUSHUB~1|tushubu attendance record system</td><td/><td>1</td><td/></row>
 	</table>
@@ -1895,13 +1995,43 @@
 		<col key="yes" def="s72">Component_</col>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT1</td></row>
-		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT2</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT10</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT11</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT12</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT13</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT14</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT3</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT4</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT5</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT6</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT7</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT8</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT9</td></row>
 		<row><td>AlwaysInstall</td><td>IS_ININSTALL_SHORTCUT</td></row>
 		<row><td>AlwaysInstall</td><td>Microsoft.Expression.Interactions.dll</td></row>
+		<row><td>AlwaysInstall</td><td>Microsoft.Expression.Interactions.resources.dll</td></row>
+		<row><td>AlwaysInstall</td><td>Microsoft.Expression.Interactions.resources.dll1</td></row>
+		<row><td>AlwaysInstall</td><td>Microsoft.Expression.Interactions.resources.dll2</td></row>
+		<row><td>AlwaysInstall</td><td>Microsoft.Expression.Interactions.resources.dll3</td></row>
+		<row><td>AlwaysInstall</td><td>Microsoft.Expression.Interactions.resources.dll4</td></row>
+		<row><td>AlwaysInstall</td><td>Microsoft.Expression.Interactions.resources.dll5</td></row>
+		<row><td>AlwaysInstall</td><td>Microsoft.Expression.Interactions.resources.dll6</td></row>
+		<row><td>AlwaysInstall</td><td>Microsoft.Expression.Interactions.resources.dll7</td></row>
+		<row><td>AlwaysInstall</td><td>Microsoft.Expression.Interactions.resources.dll8</td></row>
+		<row><td>AlwaysInstall</td><td>Microsoft.Expression.Interactions.resources.dll9</td></row>
 		<row><td>AlwaysInstall</td><td>System.Windows.Interactivity.dll</td></row>
+		<row><td>AlwaysInstall</td><td>System.Windows.Interactivity.resources.dll</td></row>
+		<row><td>AlwaysInstall</td><td>System.Windows.Interactivity.resources.dll1</td></row>
+		<row><td>AlwaysInstall</td><td>System.Windows.Interactivity.resources.dll2</td></row>
+		<row><td>AlwaysInstall</td><td>System.Windows.Interactivity.resources.dll3</td></row>
+		<row><td>AlwaysInstall</td><td>System.Windows.Interactivity.resources.dll4</td></row>
+		<row><td>AlwaysInstall</td><td>System.Windows.Interactivity.resources.dll5</td></row>
+		<row><td>AlwaysInstall</td><td>System.Windows.Interactivity.resources.dll6</td></row>
+		<row><td>AlwaysInstall</td><td>System.Windows.Interactivity.resources.dll7</td></row>
+		<row><td>AlwaysInstall</td><td>System.Windows.Interactivity.resources.dll8</td></row>
+		<row><td>AlwaysInstall</td><td>System.Windows.Interactivity.resources.dll9</td></row>
 		<row><td>AlwaysInstall</td><td>TuShubu_attendance_record_system.exe</td></row>
-		<row><td>AlwaysInstall</td><td>TuShubu_attendance_record_system.vshost.exe</td></row>
+		<row><td>AlwaysInstall</td><td>TuShubu_attendance_record_system.vshost.exe1</td></row>
 	</table>
 
 	<table name="File">
@@ -1916,22 +2046,42 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I4">ISAttributes</col>
 		<col def="S72">ISComponentSubFolder_</col>
-		<row><td>erasdemi.ttf</td><td>ISX_DEFAULTCOMPONENT3</td><td>ERASDEMI.TTF</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\Resource\ERASDEMI.TTF</td><td>1</td><td/></row>
-		<row><td>fzqkbysjw.ttf</td><td>ISX_DEFAULTCOMPONENT3</td><td>FZQKBY~1.TTF|FZQKBYSJW.TTF</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\Resource\FZQKBYSJW.TTF</td><td>1</td><td/></row>
-		<row><td>imgur.ico</td><td>ISX_DEFAULTCOMPONENT3</td><td>Imgur.ico</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\Resource\Imgur.ico</td><td>1</td><td/></row>
-		<row><td>membermanage.mdb</td><td>ISX_DEFAULTCOMPONENT3</td><td>MEMBER~1.MDB|memberManage.mdb</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\Resource\memberManage.mdb</td><td>1</td><td/></row>
-		<row><td>microsoft.expression.interac</td><td>Microsoft.Expression.Interactions.dll</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\bin\Release\Microsoft.Expression.Interactions.dll</td><td>1</td><td/></row>
-		<row><td>sculpture.png</td><td>ISX_DEFAULTCOMPONENT3</td><td>SCULPT~1.PNG|sculpture.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\Resource\sculpture.png</td><td>1</td><td/></row>
-		<row><td>segmdl2.ttf</td><td>ISX_DEFAULTCOMPONENT3</td><td>segmdl2.ttf</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\Resource\segmdl2.ttf</td><td>1</td><td/></row>
-		<row><td>system.windows.interactivity</td><td>System.Windows.Interactivity.dll</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\bin\Release\System.Windows.Interactivity.dll</td><td>1</td><td/></row>
-		<row><td>tushubu_attendance_record_sy</td><td>TuShubu_attendance_record_system.exe</td><td>TUSHUB~1.EXE|TuShubu attendance record system.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.exe</td><td>1</td><td/></row>
-		<row><td>tushubu_attendance_record_sy1</td><td>ISX_DEFAULTCOMPONENT2</td><td>TUSHUB~1.CON|TuShubu attendance record system.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.exe.config</td><td>1</td><td/></row>
-		<row><td>tushubu_attendance_record_sy2</td><td>ISX_DEFAULTCOMPONENT2</td><td>TUSHUB~1.PDB|TuShubu attendance record system.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.pdb</td><td>1</td><td/></row>
-		<row><td>tushubu_attendance_record_sy3</td><td>TuShubu_attendance_record_system.vshost.exe</td><td>TUSHUB~1.EXE|TuShubu attendance record system.vshost.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.vshost.exe</td><td>1</td><td/></row>
-		<row><td>tushubu_attendance_record_sy4</td><td>ISX_DEFAULTCOMPONENT2</td><td>TUSHUB~1.CON|TuShubu attendance record system.vshost.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.vshost.exe.config</td><td>1</td><td/></row>
-		<row><td>tushubu_attendance_record_sy5</td><td>ISX_DEFAULTCOMPONENT2</td><td>TUSHUB~1.MAN|TuShubu attendance record system.vshost.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.vshost.exe.manifest</td><td>1</td><td/></row>
-		<row><td>unfold.png</td><td>ISX_DEFAULTCOMPONENT3</td><td>unfold.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\Resource\unfold.png</td><td>1</td><td/></row>
-		<row><td>uninstall.ico</td><td>ISX_DEFAULTCOMPONENT3</td><td>UNINST~1.ICO|Uninstall.ico</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\Resource\Uninstall.ico</td><td>1</td><td/></row>
+		<row><td>erasdemi.ttf</td><td>ISX_DEFAULTCOMPONENT14</td><td>ERASDEMI.TTF</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\Resource\ERASDEMI.TTF</td><td>1</td><td/></row>
+		<row><td>fzqkbysjw.ttf</td><td>ISX_DEFAULTCOMPONENT14</td><td>FZQKBY~1.TTF|FZQKBYSJW.TTF</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\Resource\FZQKBYSJW.TTF</td><td>1</td><td/></row>
+		<row><td>imgur.ico</td><td>ISX_DEFAULTCOMPONENT14</td><td>Imgur.ico</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\Resource\Imgur.ico</td><td>1</td><td/></row>
+		<row><td>membermanage.mdb</td><td>ISX_DEFAULTCOMPONENT14</td><td>MEMBER~1.MDB|memberManage.mdb</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\Resource\memberManage.mdb</td><td>1</td><td/></row>
+		<row><td>microsoft.expression.interac</td><td>Microsoft.Expression.Interactions.resources.dll</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\de\Microsoft.Expression.Interactions.resources.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.expression.interac1</td><td>Microsoft.Expression.Interactions.resources.dll1</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\en\Microsoft.Expression.Interactions.resources.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.expression.interac10</td><td>Microsoft.Expression.Interactions.resources.dll9</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.expression.interac2</td><td>Microsoft.Expression.Interactions.resources.dll2</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\es\Microsoft.Expression.Interactions.resources.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.expression.interac3</td><td>Microsoft.Expression.Interactions.resources.dll3</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.expression.interac4</td><td>Microsoft.Expression.Interactions.resources.dll4</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\it\Microsoft.Expression.Interactions.resources.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.expression.interac5</td><td>Microsoft.Expression.Interactions.resources.dll5</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.expression.interac6</td><td>Microsoft.Expression.Interactions.resources.dll6</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.expression.interac7</td><td>Microsoft.Expression.Interactions.dll</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\Microsoft.Expression.Interactions.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.expression.interac8</td><td>Microsoft.Expression.Interactions.resources.dll7</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\ru\Microsoft.Expression.Interactions.resources.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.expression.interac9</td><td>Microsoft.Expression.Interactions.resources.dll8</td><td>MICROS~1.DLL|Microsoft.Expression.Interactions.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll</td><td>1</td><td/></row>
+		<row><td>sculpture.png</td><td>ISX_DEFAULTCOMPONENT14</td><td>SCULPT~1.PNG|sculpture.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\Resource\sculpture.png</td><td>1</td><td/></row>
+		<row><td>segmdl2.ttf</td><td>ISX_DEFAULTCOMPONENT14</td><td>segmdl2.ttf</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\Resource\segmdl2.ttf</td><td>1</td><td/></row>
+		<row><td>system.windows.interactivity</td><td>System.Windows.Interactivity.resources.dll</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\de\System.Windows.Interactivity.resources.dll</td><td>1</td><td/></row>
+		<row><td>system.windows.interactivity1</td><td>System.Windows.Interactivity.resources.dll1</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\en\System.Windows.Interactivity.resources.dll</td><td>1</td><td/></row>
+		<row><td>system.windows.interactivity10</td><td>System.Windows.Interactivity.resources.dll9</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll</td><td>1</td><td/></row>
+		<row><td>system.windows.interactivity2</td><td>System.Windows.Interactivity.resources.dll2</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\es\System.Windows.Interactivity.resources.dll</td><td>1</td><td/></row>
+		<row><td>system.windows.interactivity3</td><td>System.Windows.Interactivity.resources.dll3</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\fr\System.Windows.Interactivity.resources.dll</td><td>1</td><td/></row>
+		<row><td>system.windows.interactivity4</td><td>System.Windows.Interactivity.resources.dll4</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\it\System.Windows.Interactivity.resources.dll</td><td>1</td><td/></row>
+		<row><td>system.windows.interactivity5</td><td>System.Windows.Interactivity.resources.dll5</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\ja\System.Windows.Interactivity.resources.dll</td><td>1</td><td/></row>
+		<row><td>system.windows.interactivity6</td><td>System.Windows.Interactivity.resources.dll6</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\ko\System.Windows.Interactivity.resources.dll</td><td>1</td><td/></row>
+		<row><td>system.windows.interactivity7</td><td>System.Windows.Interactivity.resources.dll7</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\ru\System.Windows.Interactivity.resources.dll</td><td>1</td><td/></row>
+		<row><td>system.windows.interactivity8</td><td>System.Windows.Interactivity.dll</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\System.Windows.Interactivity.dll</td><td>1</td><td/></row>
+		<row><td>system.windows.interactivity9</td><td>System.Windows.Interactivity.resources.dll8</td><td>SYSTEM~1.DLL|System.Windows.Interactivity.resources.dll</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll</td><td>1</td><td/></row>
+		<row><td>tushubu_attendance_record_sy4</td><td>TuShubu_attendance_record_system.exe</td><td>TUSHUB~1.EXE|TuShubu attendance record system.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.exe</td><td>1</td><td/></row>
+		<row><td>tushubu_attendance_record_sy5</td><td>ISX_DEFAULTCOMPONENT3</td><td>TUSHUB~1.CON|TuShubu attendance record system.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.exe.config</td><td>1</td><td/></row>
+		<row><td>tushubu_attendance_record_sy6</td><td>ISX_DEFAULTCOMPONENT3</td><td>TUSHUB~1.PDB|TuShubu attendance record system.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.pdb</td><td>1</td><td/></row>
+		<row><td>tushubu_attendance_record_sy7</td><td>TuShubu_attendance_record_system.vshost.exe1</td><td>TUSHUB~1.EXE|TuShubu attendance record system.vshost.exe</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.vshost.exe</td><td>1</td><td/></row>
+		<row><td>tushubu_attendance_record_sy8</td><td>ISX_DEFAULTCOMPONENT3</td><td>TUSHUB~1.CON|TuShubu attendance record system.vshost.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.vshost.exe.config</td><td>1</td><td/></row>
+		<row><td>tushubu_attendance_record_sy9</td><td>ISX_DEFAULTCOMPONENT3</td><td>TUSHUB~1.MAN|TuShubu attendance record system.vshost.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.vshost.exe.manifest</td><td>1</td><td/></row>
+		<row><td>unfold.png</td><td>ISX_DEFAULTCOMPONENT14</td><td>unfold.png</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\Resource\unfold.png</td><td>1</td><td/></row>
+		<row><td>uninstall.ico</td><td>ISX_DEFAULTCOMPONENT14</td><td>UNINST~1.ICO|Uninstall.ico</td><td>0</td><td/><td/><td/><td>1</td><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\Resource\Uninstall.ico</td><td>1</td><td/></row>
 	</table>
 
 	<table name="FileSFPCatalog">
@@ -2079,14 +2229,44 @@
 		<col def="S0">HTTPLocation</col>
 		<col def="S0">Miscellaneous</col>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_D8DA3250_9992_418E_B4B2_34B4B6E8F0BF_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_D6C9C65F_4CC0_4878_85E7_854E96394D81_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT2</td><td/><td/><td>_7C3F92EA_E1E2_4723_80DB_1EFA0EB27C03_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_24C90550_4A47_4B59_B0C2_16069FE58C0F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_23A47A91_BAEE_46C6_AF4B_9B8429FE9B4E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT10</td><td/><td/><td>_DCCB82AB_0830_4CBD_A290_51BBB5F83694_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT11</td><td/><td/><td>_EF80782D_9909_439D_97D4_243C108608C3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT12</td><td/><td/><td>_51DBFD5F_C9D4_4AFB_B385_F918640AF6A4_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT13</td><td/><td/><td>_7D89E483_7D4C_49A3_886C_FEAA21C351C1_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT14</td><td/><td/><td>_B0408B1B_4E92_4585_A685_0FE3FF0EE8B4_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_94E8D3CB_AE35_4E66_AC51_748BDE25E34E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_669777B5_89C8_4EC6_BBB0_9915A8392DF9_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_AFDAD5E4_9855_4007_B433_BB2816A082F9_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_0EE55820_4339_4C8C_80EB_C6E4D09E51CF_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT7</td><td/><td/><td>_B04436F4_86F3_4377_88AA_0A32DC3DCBD0_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT8</td><td/><td/><td>_A74FE245_309A_4D72_AC5F_7F599A5ABE05_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT9</td><td/><td/><td>_32A8BA98_FC2F_4358_9E3D_1246FF6C58F2_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>IS_ININSTALL_SHORTCUT</td><td/><td/><td>_D176423A_AB45_4779_9ABE_A8877FD3DBFD_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Microsoft.Expression.Interactions.dll</td><td/><td/><td>_BA2AA8BD_DB81_4B5F_BFFC_970139877469_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>System.Windows.Interactivity.dll</td><td/><td/><td>_559006D4_5722_4FB7_9344_AA396F3D2F13_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>TuShubu_attendance_record_system.exe</td><td/><td/><td>_0F9AAE5C_789B_469F_9F7C_D88A4B36AD8C_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>TuShubu_attendance_record_system.vshost.exe</td><td/><td/><td>_290FDB02_7DB6_4AEE_BE7D_92A465C9C2CF_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.Expression.Interactions.dll</td><td/><td/><td>_91024241_1CAA_4E71_8061_144865CEFCA7_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll</td><td/><td/><td>_D67B771A_860C_4DEA_82C6_EDF5BF6CAFBD_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll1</td><td/><td/><td>_AACBF8C0_AC87_4723_A716_7C7797687537_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll2</td><td/><td/><td>_EC1876C3_3398_41DE_959A_DF5F5AEBEC9C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll3</td><td/><td/><td>_4A16F5D6_88FA_4BDC_B6E6_E5AD11C01EA3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll4</td><td/><td/><td>_B537C54F_4BD0_421D_A23C_AAE285FA90D7_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll5</td><td/><td/><td>_E09F0EBD_B061_4AC5_97C1_DBBA0A3648F0_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll6</td><td/><td/><td>_4BA2A90C_D7BC_4A5E_9B29_72736E416F8E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll7</td><td/><td/><td>_5A2DD846_DE04_4B35_A314_C0F3BDDAFB99_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll8</td><td/><td/><td>_420FD0F9_D771_4162_8B0C_800746C84414_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Microsoft.Expression.Interactions.resources.dll9</td><td/><td/><td>_678713B3_6A9F_48D5_93F5_667A10C779C0_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Windows.Interactivity.dll</td><td/><td/><td>_27DC01DD_1711_4F91_A2D4_72BC3F72009A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Windows.Interactivity.resources.dll</td><td/><td/><td>_C958C686_F0D5_467A_987E_DE12671EF653_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Windows.Interactivity.resources.dll1</td><td/><td/><td>_08D19E0A_7EF0_4B68_8D91_4AC5F8053B9E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Windows.Interactivity.resources.dll2</td><td/><td/><td>_60C02573_45DB_4FD0_97EB_C0DBFBB95EE8_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Windows.Interactivity.resources.dll3</td><td/><td/><td>_33475DD0_9F5E_4765_A77F_A21F64E0BAF1_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Windows.Interactivity.resources.dll4</td><td/><td/><td>_B6B5722F_7332_4307_A424_F657B37BCAD5_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Windows.Interactivity.resources.dll5</td><td/><td/><td>_DA01A003_DA98_463C_8ED6_9702872C8D48_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Windows.Interactivity.resources.dll6</td><td/><td/><td>_A3CB9AA9_45C3_465C_B13B_DAAD9061084D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Windows.Interactivity.resources.dll7</td><td/><td/><td>_08996899_0F0D_403E_A7B7_6FCBDBFB2661_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Windows.Interactivity.resources.dll8</td><td/><td/><td>_DC363246_CB0E_40F1_9E86_9B2A84017F33_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>System.Windows.Interactivity.resources.dll9</td><td/><td/><td>_476A2180_83DE_4FE1_A16B_DEDC5B56D9E7_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>TuShubu_attendance_record_system.exe</td><td/><td/><td>_3393A361_6AEA_430F_B5DC_F2F093BA3A2A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>TuShubu_attendance_record_system.vshost.exe1</td><td/><td/><td>_41D967E3_6045_4554_8D0D_920DFDB52AE2_FILTER</td><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="ISCustomActionReference">
@@ -2643,6 +2823,7 @@
 		<col def="I2">Order</col>
 		<col def="I2">ISSetupLocation</col>
 		<col def="S255">ISReleaseFlags</col>
+		<row><td>_FE89208C_4151_4BD2_82F7_469FF36962BF_</td><td>Microsoft .NET Framework 4.5 Full.prq</td><td/><td/><td/></row>
 	</table>
 
 	<table name="ISSetupType">
@@ -2676,11 +2857,11 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>2052</td><td>intMinor</td><td>0</td><td/><td>1780767179</td></row>
+		<row><td>COMPANY_NAME</td><td>2052</td><td>intMinor</td><td>0</td><td/><td>1386480516</td></row>
 		<row><td>DN_AlwaysInstall</td><td>2052</td><td>始终安装</td><td>0</td><td/><td>1780768618</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>2052</td><td>系统颜色设置不足以运行 [ProductName]。</td><td>0</td><td/><td>1780768618</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL</td><td>1033</td><td>Microsoft .NET Framework 4.5 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>1780795403</td></row>
-		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL</td><td>2052</td><td>Microsoft .NET Framework 4.5 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>1780795403</td></row>
+		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL</td><td>2052</td><td>Microsoft .NET Framework 4.5 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>1386538340</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_OS</td><td>2052</td><td>操作系统不足以运行 [ProductName]。</td><td>0</td><td/><td>1780768618</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_PROCESSOR</td><td>2052</td><td>处理器不足以运行 [ProductName]。</td><td>0</td><td/><td>1780768618</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_RAM</td><td>2052</td><td>RAM 量不足以运行 [ProductName]。</td><td>0</td><td/><td>1780768618</td></row>
@@ -3492,10 +3673,26 @@
 		<row><td>IDS_SETUPEXE_LAUNCH_COND_E</td><td>2052</td><td>本安装程序内建有 InstallShield 的评估版，只能用 setup.exe 文件启动。</td><td>0</td><td/><td>1780768618</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME1</td><td>1033</td><td>Uninstall</td><td>0</td><td/><td>1780754539</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME1</td><td>2052</td><td>Uninstall</td><td>0</td><td/><td>1780754539</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME10</td><td>1033</td><td/><td>0</td><td/><td>1386489092</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME10</td><td>2052</td><td>勤工助学服务中心图书馆考勤管理系统</td><td>0</td><td/><td>1386511652</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME11</td><td>1033</td><td/><td>0</td><td/><td>1386489092</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME11</td><td>2052</td><td>LAUNCH~1.EXE|Launch TuShubu attendance record system.vshost.exe</td><td>0</td><td/><td>1386489092</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME2</td><td>1033</td><td/><td>0</td><td/><td>1780760747</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME2</td><td>2052</td><td>勤工助学服务中心图书部考勤系统</td><td>0</td><td/><td>1780793515</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>1033</td><td/><td>0</td><td/><td>1780760747</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>2052</td><td>LAUNCH~1.EXE|Launch TuShubu attendance record system.vshost.exe</td><td>0</td><td/><td>1780760747</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>1033</td><td/><td>0</td><td/><td>1386533860</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>2052</td><td>LAUNCH~1.EXE|Launch TuShubu attendance record system.exe</td><td>0</td><td/><td>1386533860</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME5</td><td>1033</td><td/><td>0</td><td/><td>1386533860</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME5</td><td>2052</td><td>LAUNCH~1.EXE|Launch TuShubu attendance record system.vshost.exe</td><td>0</td><td/><td>1386533860</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME6</td><td>1033</td><td/><td>0</td><td/><td>1386487012</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME6</td><td>2052</td><td>LAUNCH~1.EXE|Launch TuShubu attendance record system.vshost.exe</td><td>0</td><td/><td>1386487012</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME7</td><td>1033</td><td/><td>0</td><td/><td>1386487012</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME7</td><td>2052</td><td>LAUNCH~1.EXE|Launch TuShubu attendance record system.exe</td><td>0</td><td/><td>1386487012</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME8</td><td>1033</td><td/><td>0</td><td/><td>1386487012</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME8</td><td>2052</td><td>LAUNCH~1.EXE|Launch TuShubu attendance record system.vshost.exe</td><td>0</td><td/><td>1386487012</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME9</td><td>1033</td><td/><td>0</td><td/><td>1386489092</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME9</td><td>2052</td><td>LAUNCH~1.EXE|Launch TuShubu attendance record system.vshost.exe</td><td>0</td><td/><td>1386489092</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO</td><td>2052</td><td>从以下服务器列表中选择要连接的数据库服务器。</td><td>0</td><td/><td>1780768618</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_DB</td><td>2052</td><td>从以下的编录名称列表中，选择您希望将其作为目标的数据库编录。</td><td>0</td><td/><td>1780768618</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_TEMPLATE</td><td>2052</td><td>[IS_SQLBROWSE_INTRO]</td><td>0</td><td/><td>1780768618</td></row>
@@ -3784,10 +3981,14 @@
 		<row><td>IDS__TargetReq_DESC_PROCESSOR</td><td>2052</td><td>对于运行 [ProductName] 处理器不足。</td><td>0</td><td/><td>1780768618</td></row>
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>2052</td><td>对于运行 [ProductName] 内存量不足。</td><td>0</td><td/><td>1780768618</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>2052</td><td>对于运行 [ProductName] 屏幕分辨率不足。</td><td>0</td><td/><td>1780768618</td></row>
-		<row><td>ID_STRING1</td><td>2052</td><td>http://www.intMinor.com</td><td>0</td><td/><td>1780767179</td></row>
-		<row><td>ID_STRING2</td><td>2052</td><td>intMinor</td><td>0</td><td/><td>1780767179</td></row>
+		<row><td>ID_STRING1</td><td>2052</td><td>http://www.intMinor.com</td><td>0</td><td/><td>1386480516</td></row>
+		<row><td>ID_STRING2</td><td>2052</td><td>intMinor</td><td>0</td><td/><td>1386480516</td></row>
 		<row><td>ID_STRING3</td><td>1033</td><td>勤工助学服务中心图书部考勤系统</td><td>0</td><td/><td>1780795563</td></row>
 		<row><td>ID_STRING3</td><td>2052</td><td>勤工助学服务中心图书部考勤系统</td><td>0</td><td/><td>1780795563</td></row>
+		<row><td>ID_STRING4</td><td>1033</td><td>LAUNCH~1.EXE|Launch TuShubu attendance record system.exe</td><td>0</td><td/><td>1386527812</td></row>
+		<row><td>ID_STRING4</td><td>2052</td><td>LAUNCH~1.EXE|Launch TuShubu attendance record system.exe</td><td>0</td><td/><td>1386527812</td></row>
+		<row><td>ID_STRING5</td><td>1033</td><td>勤工助学服务中心图书馆考勤管理系统</td><td>0</td><td/><td>1386513700</td></row>
+		<row><td>ID_STRING5</td><td>2052</td><td>勤工助学服务中心图书馆考勤管理系统</td><td>0</td><td/><td>1386513700</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>2052</td><td>系统将不安装此功能。</td><td>0</td><td/><td>1780768618</td></row>
 	</table>
 
@@ -3902,9 +4103,17 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I2">ISIconIndex</col>
 		<row><td>ARPPRODUCTICON.exe</td><td/><td>&lt;VSSolutionFolder&gt;\TuShubu attendance record system\Resource\Imgur.ico</td><td>0</td></row>
+		<row><td>TuShubu_attendance_05DC1335AFB74813A1620E30E07919B6.exe</td><td/><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.exe</td><td>0</td></row>
 		<row><td>TuShubu_attendance_0CE914C0CDDE4A8B8BAE451E7BD8C533.exe</td><td/><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.exe</td><td>0</td></row>
+		<row><td>TuShubu_attendance_189C4AE16AB2489FA31B19E805140F39.exe</td><td/><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.exe</td><td>0</td></row>
+		<row><td>TuShubu_attendance_4374F84DB3BD457EA4568F0F5C53B54E.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
+		<row><td>TuShubu_attendance_8A6B232E797E4CB094BB090A5F689CA4.exe</td><td/><td>D:\文档\GitHub\TuShubu-attendance-record-system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.exe</td><td>0</td></row>
 		<row><td>TuShubu_attendance_8AD6C3FE704A483CA074119BC692C583.exe</td><td/><td>D:\文档\Visual Studio 2015\Projects\TuShubu attendance record system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.exe</td><td>0</td></row>
-		<row><td>UNINST_Uninstall_T_0E6AE3347DAD44E78C5B0A8A9C036F4D.exe</td><td/><td>&lt;VSSolutionFolder&gt;\TuShubu attendance record system\Resource\Uninstall.ico</td><td>0</td></row>
+		<row><td>TuShubu_attendance_B41BBEAD1CFB4A08A0CC9EE54BD5D943.exe</td><td/><td>D:\下载\Code\C# Code\TuShubu attendance record system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.exe</td><td>0</td></row>
+		<row><td>TuShubu_attendance_CD8140D07B4944FAA8A609232E2393B9.exe</td><td/><td>D:\下载\Code\C# Code\TuShubu attendance record system\TuShubu attendance record system\bin\Release\TuShubu attendance record system.exe</td><td>0</td></row>
+		<row><td>TuShubu_attendance_CE7C61BD321F43A1BD5CA360B3A29EEE.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
+		<row><td>TuShubu_attendance_E06D8DFC03E849E194848CF5BA251BE7.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
+		<row><td>UNINST_Uninstall_T_D0FD6C2828B340369E50C5642212B219.exe</td><td/><td>&lt;VSSolutionFolder&gt;\TuShubu attendance record system\Resource\Uninstall.ico</td><td>0</td></row>
 	</table>
 
 	<table name="IniFile">
@@ -4576,9 +4785,9 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>TuShubu_attendance_record_system.exe</td><td>tushubu_attendance_record_system</td><td>##IDS_SHORTCUT_DISPLAY_NAME2##</td><td>TuShubu_attendance_record_system.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>TuShubu_attendance_8AD6C3FE704A483CA074119BC692C583.exe</td><td>1</td><td>1</td><td>RELEASE</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>TuShubu_attendance_record_system.exe1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME2##</td><td>TuShubu_attendance_record_system.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>TuShubu_attendance_0CE914C0CDDE4A8B8BAE451E7BD8C533.exe</td><td>1</td><td>1</td><td>RELEASE</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>UNINST_Uninstall_TuShubu_attendance_record_system</td><td>tushubu_attendance_record_system</td><td>##IDS_SHORTCUT_DISPLAY_NAME1##</td><td>IS_ININSTALL_SHORTCUT</td><td>[SystemFolder]msiexec.exe</td><td>/x {09AF3759-0534-4C0B-8DD3-88B81102D472}</td><td/><td/><td>UNINST_Uninstall_T_0E6AE3347DAD44E78C5B0A8A9C036F4D.exe</td><td>0</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>TuShubu_attendance_record_system.exe</td><td>tushubu_attendance_record_system</td><td>##IDS_SHORTCUT_DISPLAY_NAME10##</td><td>TuShubu_attendance_record_system.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>TuShubu_attendance_8A6B232E797E4CB094BB090A5F689CA4.exe</td><td>1</td><td>1</td><td>RELEASE</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>TuShubu_attendance_record_system.exe1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME10##</td><td>TuShubu_attendance_record_system.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>TuShubu_attendance_05DC1335AFB74813A1620E30E07919B6.exe</td><td>1</td><td>1</td><td>RELEASE</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>UNINST_Uninstall_TuShubu_attendance_record_system</td><td>tushubu_attendance_record_system</td><td>##IDS_SHORTCUT_DISPLAY_NAME1##</td><td>IS_ININSTALL_SHORTCUT</td><td>[SystemFolder]msiexec.exe</td><td>/x {09AF3759-0534-4C0B-8DD3-88B81102D472}</td><td/><td/><td>UNINST_Uninstall_T_D0FD6C2828B340369E50C5642212B219.exe</td><td>0</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="Signature">

@@ -53,7 +53,7 @@ namespace TuShubu_attendance_record_system
 
                     int length = tempRow["name"].ToString().Length;
 
-                    if (length <= 4)
+                    if (length < 4)
                     {
                         for (int n = 0; n < 4 - length; n++)
                         {

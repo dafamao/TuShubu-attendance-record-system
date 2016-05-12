@@ -100,15 +100,27 @@ namespace TuShubu_attendance_record_system
 
         private void my_treeview_SelectedItemChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
         {
-            selectDataStar = my_treeview.SelectedItem as ShowTreeViewData;
-            txb_modify.Text = selectDataStar.Name;
+            try
+            {
+                selectDataStar = my_treeview.SelectedItem as ShowTreeViewData;
+                txb_modify.Text = selectDataStar.Name;
+            }
+
+            catch
+            { }
+            
         }
 
         private void btn_addgroup_Click(object sender, RoutedEventArgs e)
         {
+            txb_addgroup.Text = txb_addgroup.Text.Replace(" ", "");
+
             if (txb_addgroup.Text == "") return;
 
-            txb_addgroup.Text = txb_addgroup.Text.Replace(" ", "").Replace("组", "");
+            if (txb_addgroup.Text[txb_addgroup.Text.Length - 1].ToString() == "组")
+            {
+                txb_addgroup.Text = txb_addgroup.Text.Replace(" ", "").TrimEnd('组');
+            }
 
             string strSQL = "insert into [member](parentID,name) values('-1', '" + txb_addgroup.Text + "')";
             DatabaseOperate.databaseOperate(strSQL);
@@ -132,7 +144,9 @@ namespace TuShubu_attendance_record_system
 
         private void btn_addmember_Click(object sender, RoutedEventArgs e)
         {
-            if (txb_addmember.Text == "" && cmb_whichgroup.SelectedItem == null) return;
+            txb_addmember.Text = txb_addmember.Text.Replace(" ", "");
+
+            if (txb_addmember.Text == "" || cmb_whichgroup.SelectedItem == null) return;
 
             selectIndexEnd = selectIndexStar;
 
@@ -153,18 +167,23 @@ namespace TuShubu_attendance_record_system
 
         private void btn_modify_Click(object sender, RoutedEventArgs e)
         {
+            txb_modify.Text = txb_modify.Text.Replace(" ", "");
+
             if (!(txb_modify.Text == "") && !(selectDataStar == null) && !(selectDataStar.Name == txb_modify.Text))
             {
                 selectDataEnd = selectDataStar;
 
-                txb_modify.Text = txb_modify.Text.Replace(" ", "").Replace("组", "");
+                if (txb_modify.Text[txb_modify.Text.Length - 1].ToString() == "组")
+                {
+                    txb_modify.Text = txb_modify.Text.Replace(" ", "").TrimEnd('组');
+                }
 
                 string strSQL = " update [member] set [name] = '" + txb_modify.Text + "' where [ID] = " + selectDataEnd.ID + " ";
                 DatabaseOperate.databaseOperate(strSQL);
-            }
 
-            this.cmb_whichgroup.ItemsSource = App.GroupComboBoxData;
-            this.my_treeview.ItemsSource = App.outputTreeView;
+                this.cmb_whichgroup.ItemsSource = App.GroupComboBoxData;
+                this.my_treeview.ItemsSource = App.outputTreeView;
+            }
 
             if (!(selectIndexEnd == -1))
             {
