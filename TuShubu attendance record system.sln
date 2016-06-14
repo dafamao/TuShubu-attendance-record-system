@@ -1,11 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuShubu attendance record system", "TuShubu attendance record system\TuShubu attendance record system.csproj", "{B0DCB431-9A90-4E03-84E0-ADAC4DF8DF08}"
-EndProject
-Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup", "Setup\Setup.isproj", "{A29B37BA-B9A9-42DA-B409-00D693288F9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,16 +22,6 @@ Global
 		{B0DCB431-9A90-4E03-84E0-ADAC4DF8DF08}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B0DCB431-9A90-4E03-84E0-ADAC4DF8DF08}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
 		{B0DCB431-9A90-4E03-84E0-ADAC4DF8DF08}.SingleImage|Any CPU.Build.0 = Release|Any CPU
-		{A29B37BA-B9A9-42DA-B409-00D693288F9C}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
-		{A29B37BA-B9A9-42DA-B409-00D693288F9C}.CD_ROM|Any CPU.Build.0 = CD_ROM
-		{A29B37BA-B9A9-42DA-B409-00D693288F9C}.Debug|Any CPU.ActiveCfg = DVD-5
-		{A29B37BA-B9A9-42DA-B409-00D693288F9C}.Debug|Any CPU.Build.0 = DVD-5
-		{A29B37BA-B9A9-42DA-B409-00D693288F9C}.DVD-5|Any CPU.ActiveCfg = DVD-5
-		{A29B37BA-B9A9-42DA-B409-00D693288F9C}.DVD-5|Any CPU.Build.0 = DVD-5
-		{A29B37BA-B9A9-42DA-B409-00D693288F9C}.Release|Any CPU.ActiveCfg = SingleImage
-		{A29B37BA-B9A9-42DA-B409-00D693288F9C}.Release|Any CPU.Build.0 = SingleImage
-		{A29B37BA-B9A9-42DA-B409-00D693288F9C}.SingleImage|Any CPU.ActiveCfg = SingleImage
-		{A29B37BA-B9A9-42DA-B409-00D693288F9C}.SingleImage|Any CPU.Build.0 = SingleImage
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
