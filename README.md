@@ -2,7 +2,7 @@
   校图书馆学生服务人员日常考勤系统-C#（WPF） 
   
   
-  ## 系统运行截图
+## 系统运行截图
   
 ![image](https://github.com/intMinor/TuShubu-attendance-record-system/blob/master/Screenshots/1.PNG)
 
