@@ -5,10 +5,10 @@
   ## 系统运行截图
   
   
-![image](https://github.com/intMinor/fristArcGisEngineDome/blob/master/Screenshots/1.png)
+![image](https://github.com/intMinor/TuShubu-attendance-record-system/blob/master/Screenshots/1.png)
 
-![image](https://github.com/intMinor/fristArcGisEngineDome/blob/master/Screenshots/2.png)
+![image](https://github.com/intMinor/TuShubu-attendance-record-system/blob/master/Screenshots/2.png)
 
-![image](https://github.com/intMinor/fristArcGisEngineDome/blob/master/Screenshots/3.png)
+![image](https://github.com/intMinor/TuShubu-attendance-record-system/blob/master/Screenshots/3.png)
 
-![image](https://github.com/intMinor/fristArcGisEngineDome/blob/master/Screenshots/4.png)
+![image](https://github.com/intMinor/TuShubu-attendance-record-system/blob/master/Screenshots/4.png)
